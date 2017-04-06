@@ -5,4 +5,4 @@
  * Date: 17-4-5
  * Time: 下午7:26
  */
-echo "hello php";
+echo "hello php hello";
